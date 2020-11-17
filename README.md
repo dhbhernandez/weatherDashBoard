@@ -15,7 +15,8 @@ Use `localStorage` to store any persistent data.
 <li>When I view the UV index, then I am presented with a color that indicates whether the conditions are favorable, moderate, or severe.</li>
 <li>When I view future weather conditions for that city, then I am presented with a 5-day forecast that displays the date, an icon representation of weather conditions, the temperature, and the humidity.</li>
 <li>Create a weather dashboard with form inputs.</li>
-<li>When I click on a city in the search history, then I am again presented with current and future conditions for that city. When I open the weather dashboard, then I am presented with the last searched city forecast.</li>
+<li>When I click on a city in the search history, then I am again presented with current and future conditions for that city.</li>
+<li>When I open the weather dashboard, then I am presented with the last searched city forecast.</li>
 </ul>
 
 
